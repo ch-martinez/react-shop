@@ -7,8 +7,8 @@ type ThemeProp = {
 
 export enum themePalette {
     bg = "#222",
-    lime ="#C8FA5F",
-    font_global = ''
+    lime ="#5FC8FA",
+    font_global = 'JetBrains Mono'
 }
 
 const theme = createTheme({

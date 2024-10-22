@@ -12,7 +12,7 @@ export const AppRouter: React.FC<{}> = () => {
                 <Route path="/" element={<HomePage />} />
                 <Route path="/login" element={<LoginPage />} />
             </Route>
-            <Route path="/nose" element={<div>Hola</div>} />
+            <Route path="/out" element={<div><h1>ESTAMOS FUERA DEL LAYOUT</h1></div>} />
         </Routes>
 
     );

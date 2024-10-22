@@ -23,7 +23,7 @@ export const NavBar: React.FC<{}> = () => {
                             alignItems="center"
                         >
                             <Grid item>
-                                <Typography>Codrr</Typography>
+                                <Typography>SHOP</Typography>
                             </Grid>
                             <Grid item>
                                 <Stack direction="row" spacing={2}>
